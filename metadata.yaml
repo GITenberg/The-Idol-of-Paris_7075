@@ -1,0 +1,26 @@
+_repo: The-Idol-of-Paris_7075
+creator:
+  author:
+    agent_name: Bernhardt, Sarah
+    alias: Bernhardt, Rosine Bernard Damala
+    birthdate: 1844
+    deathdate: 1923
+    gutenberg_agent_id: '2332'
+    url: http://www.gutenberg.org/2009/agents/2332
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Bernhardt
+description: A fascinating novel written by one of the most famous actresses of early
+  cinema, Sarah Bernhardt.  The book presents a fictionalised and idealised version
+  of Bernhardt's own life and career.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+title: The Idol of Paris
+url: http://www.gutenberg.org/ebooks/7075
