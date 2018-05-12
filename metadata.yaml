@@ -1,4 +1,8 @@
 _repo: The-Idol-of-Paris_7075
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bernhardt, Sarah
@@ -11,6 +15,8 @@ creator:
 description: A fascinating novel written by one of the most famous actresses of early
   cinema, Sarah Bernhardt.  The book presents a fictionalised and idealised version
   of Bernhardt's own life and career.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7075#The-Idol-of-Paris
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
